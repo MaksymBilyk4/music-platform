@@ -1,0 +1,19 @@
+{
+  "name": "music-platform",
+  "version": "1.0.0",
+  "description": "- Rest API using Nest.js framework\r - MongoDB - database management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxBill4/music-platform.git"
+  },
+  "author": "Max Bilyk <datan0612@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxBill4/music-platform/issues"
+  },
+  "homepage": "https://github.com/MaxBill4/music-platform#readme"
+}
